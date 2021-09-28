@@ -1,0 +1,5 @@
+"Use Default Category Path for Product URLs","Standard-Kategoriepfad für Artikel URLs verwenden"
+"Select ""If Category Path isn't already set"" to use Default Category Path for Product URLs outside of Categories only. Such URLs can be found within Canonical Link Meta Tag for Products or Compare List. If you'd like to use Default Category Path for all Product URLs, evt. replacing the actual Category Path, select ""Always"".","Wählen Sie ""Wenn Kategoriepfad nicht vorhanden"" um den Standard-Kategoriepfad nur für Artikel URLs zu verwenden, die sich außerhalb von Kategorien befinden. Solche URLs finden Sie etwa innerhalb des Canonical Link Meta-Tags für Artikel oder der Vergleichsliste. Wenn Sie den Standard-Kategoriepfad für alle Artikel URLs verwenden möchten, sodass der eigentliche Kategoriepfad ggf. ersetzt wird, wählen Sie ""Immer""."
+"If Category Path isn't already set","Wenn Kategoriepfad nicht vorhanden"
+"No Default Category Ids","Keine"
+"Default Category","Standard-Kategorie"

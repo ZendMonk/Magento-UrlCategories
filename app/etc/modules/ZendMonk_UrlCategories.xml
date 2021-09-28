@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<ZendMonk_UrlCategories>
+			<active>true</active>
+			<codePool>community</codePool>
+			<depends>
+				<Mage_Core />
+				<Mage_Catalog />
+            </depends>
+		</ZendMonk_UrlCategories>
+	</modules>
+</config>
